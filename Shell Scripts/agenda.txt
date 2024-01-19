@@ -1,0 +1,8 @@
+232323323:Juan:Garcia Gomez:Badajoz
+123456789:Jose:Cruz Moreno:Badajoz
+898787878:Rosa:Garcia Diaz:Caceres
+789888881:Juana:Garcia Diaz:Caceres
+123458000:Antonio:Lopez Anton:Zamora
+152342000:Luis:Escudero Barrantes:Burgos
+123156465:Maria:Garcia Canales.Cordoba
+111111111:Alex:Borrajo Cruz:Badajoz 
