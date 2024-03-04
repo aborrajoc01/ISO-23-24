@@ -16,17 +16,17 @@ for i in lineas:
 
 
 print("A- Nombre de fichero y eliminarlo")
-print("B- Nombre de directorio y mostrar información")
+print("B- Nombre de directorio e información")
 print("C- Nombre de fichero y copiarlo a destino")
-print("D- Mostrar lista elegida por usuario")
+print("D- Lista elegida por usuario")
 print("E- Salir")
 
 
 while True:
-    opt = input("Ingrese su opcion: ")
+    opt = input("Ingrese una opcion: ")
 
     if opt == "A":
-        fic = input("Ingrese un nombre de fichero: ")
+        fic = input("Ingrese el nombre de fichero: ")
         os.system(f'rm {fic}')
         files.remove(fic)
 
@@ -53,7 +53,7 @@ while True:
             print(direct)
 
     elif opt == "E":
-        print("Usted ha seleccionado salir")
+        print("Salir")
         exit()
 
 fichero.close()
